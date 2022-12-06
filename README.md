@@ -8,7 +8,9 @@ Heading level 2
  
  o github é uma ferramenta muito umportantnte para um dev, pois nele ficarão expostos seus principais projetos.
  
+ aqui ficarão salvos minhas melhores ferramentas desenvolvidas.
+ 
  para ter uma melhor experiência, É muito útil possuir o console git para 
- administrar seus repositórios e arquivos
+ administrar seus repositórios e arquivos.
 
 ## [se você ainda não possui pode baixá-lo clicando aqui](https://git-scm.com/downloads)
