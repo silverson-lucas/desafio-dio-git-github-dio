@@ -4,4 +4,4 @@
 # desafio de criação do primeiro repositório no git/github
 É muito útil possuir o console git
 
-## [baixe o console git aqui](https://git-scm.com/downloads)
+## [baixe o console git clicando aqui](https://git-scm.com/downloads)
